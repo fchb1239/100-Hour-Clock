@@ -15,7 +15,7 @@ Who should I be asking though?
 
 The ancient egyptians aren't really around anymore.
 
-# Yes, but why
+# Yes, but why?
 Let's compare 24 hour time to imperial measurement system.
 Imperial it confusing, and is illogical, good for it's time, but not good for accuracy.
 Then metric came along and solved that problem.
