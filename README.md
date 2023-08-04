@@ -29,6 +29,6 @@ You can also view it as a percentage, 100 hours in a day also signify how much p
 It's simple, and more logical.
 
 # Examples
-"Hey, meet me at 50" - The person saying this wants to meet someone at the middle of the day (12 o' clock)
-"Want to grab a drink at 80" - The person wants to meet up in the evening, when 80% of the day has passed
-"I can't wake up at 35, it's too early!" - This would be early sunrise, and would be annoying to wake up at.
+- "Hey, meet me at 50" - The person saying this wants to meet someone at the middle of the day (12 o' clock)
+- "Want to grab a drink at 80" - The person wants to meet up in the evening, when 80% of the day has passed
+- "I can't wake up at 35, it's too early!" - This would be early sunrise, and would be annoying to wake up at.
