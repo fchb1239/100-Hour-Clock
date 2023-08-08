@@ -1,8 +1,5 @@
-# 100 Hour Clock
+# Cycle Clock
 More precise, more effecient, less confusion.
-
-I'll be posting a program soon when I have the names for the different times,
-since if I called an hour in the new system the same as the old one, it would cause confusion.
 
 # Why?
 Good question.
