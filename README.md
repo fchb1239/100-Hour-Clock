@@ -28,7 +28,13 @@ Which is quite frankly, also illogical.
 You can also view it as a percentage, 100 hours in a day also signify how much percentage has passed during the day.
 It's simple, and more logical.
 
+As to not cause confusion, this clock system will be using Cycle, Moment, and Beat.
+There are 100 Cycles in a day
+100 Moments in a Cycle
+100 Beats in a Moment
+
 # Examples
 - "Hey, meet me at 50" - The person saying this wants to meet someone at the middle of the day (12 o' clock)
 - "Want to grab a drink at 80" - The person wants to meet up in the evening, when 80% of the day has passed
 - "I can't wake up at 35, it's too early!" - This would be early sunrise, and would be annoying to wake up at.
+- "I'll be there in a moment" - This is equivalent to "I'll be there in a minute"
