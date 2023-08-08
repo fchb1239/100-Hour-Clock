@@ -10,7 +10,8 @@ Who should I be asking though?
 
 ![image](https://github.com/fchb1239/100-Hour-Clock/assets/29258204/697787f9-c5be-414e-8553-1d34c6ddbcf8)
 
-The ancient egyptians aren't really around anymore.
+The ancient Egyptians aren't really around anymore.
+So I had to figure out a soultion.
 
 # Yes, but why?
 Let's compare 24 hour time to imperial measurement system.
